@@ -15,8 +15,8 @@ La API cuenta con una base de datos en SQLLite incluída en el proyecto y rellen
 El proyecto está dividido en varias carpetas, Controllers, Models, Repositories y Services
 
 ## Consideraciones
-Debido a que el tiempo de la prueba era de 1h aproximadamente e intentando encontrar la solución más óptima para poder enviar la prueba con persistencia de datos no me ha sido posible hacer la llamada a la API de consulta swapi.
+Debido a que el tiempo de la prueba era de 1h aproximadamente (tardé un poco más de 1h) e intentando encontrar la solución más óptima para poder enviar la prueba con persistencia de datos no me ha sido posible hacer la llamada a la API de consulta swapi.
 
 ## Cosas que me habría gustado añadir
 De haber tenido un poco más de tiempo me habría gustado usar [Refit ](https://github.com/reactiveui/refit) para hacer la llamada a la api de Swapi. 
-También me habría gustado realizar un test de integración.
+También me habría gustado realizar un test unitario.
